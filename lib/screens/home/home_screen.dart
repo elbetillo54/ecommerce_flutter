@@ -4,9 +4,8 @@ import 'package:ecommerce_flutter/constants.dart';
 
 import '../../models/Product.dart';
 import '../details/details_screen.dart';
-import 'components/categories.dart';
 import 'components/item_card.dart';
-
+//
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key, required this.category});
 
